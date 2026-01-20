@@ -24,4 +24,8 @@ Hangman is a word-guessing game where:
 ---
 
 ## 📂 Project Structure
-
+├── MainClass.java # Entry point of the program
+├── Game.java # Controls the game logic
+├── HangMan.java # Hangman mechanics and rules
+├── Player.java # Player-related data and actions
+├── Platform.java # Game environment / interface handling
